@@ -14,10 +14,10 @@ int main(void)
     // Task 2
 
 
-
+    
     // Task 3
 
-    /*int age;
+    int age;
     char name[20];
     // вводим возраст
     printf("Your age: ");
@@ -26,7 +26,7 @@ int main(void)
     printf("Your name: ");
     scanf("%s20", name);
 
-    printf("Name: %s \t Age = %d\n ", name, age);*/
+    printf("Name: %s \t Age = %d\n ", name, age);
 
     // Task 4
 
