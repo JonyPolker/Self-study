@@ -15,5 +15,6 @@ int main (void)
     int *ap = &a;
     *ap = 25;
     printf("a is %d", *ap);
+    
     return 0;
 }
